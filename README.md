@@ -1,5 +1,8 @@
 # Scraping Website
 
+![ice-scraping-ice - Trim](https://github.com/ahmedmonged/Scraping_website/assets/69379730/5d6efc9a-3bb5-4b1a-ba28-cabf7a1011ce)
+
+
 ## Introduction
 In this Web Scraping project, we are Scraping a recruitment job site to collect information about job opportunities 
 this project is done by using Python and some libraries like  Helium and BeautifulSoup 
