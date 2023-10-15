@@ -4,7 +4,7 @@
 
 
 ## Introduction
-In this Web Scraping project, we are Scraping a recruitment job site called [WUZZUF] (https://wuzzuf.net/jobs/egypt)to collect information about job opportunities 
+In this Web Scraping project, we are Scraping a recruitment job site called [WUZZUF](https://wuzzuf.net/jobs/egypt) to collect information about job opportunities 
 this project is done by using Python and some libraries like  Helium and BeautifulSoup 
 the website provides a lot of useful information that can be used to make an analysis for a better understanding of the market and to make 
 some decisions like what domain should I work for what is the average salary ETC...
